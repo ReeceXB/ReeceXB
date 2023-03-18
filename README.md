@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ReeceXB
 - 👀 I’m interested in computer science and cars.
-- 🌱 I’m studying Software Engineering @ Plymouth State Univeristy
-- 📫 How to reach me Discord : Reece#4819
+- 🌱 I’m studying Software Engineering 
+- 📫 How to reach me Discord : Reece#1111
